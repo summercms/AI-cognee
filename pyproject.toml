@@ -76,7 +76,7 @@ postgres = [
 notebook = ["notebook>=7.1.0,<8"]
 langchain = [
     "langsmith==0.2.3",
-    "langchain_text_splitters==0.3.2",
+    "langchain_text_splitters==1.0.0a1",
 ]
 llama-index = ["llama-index-core>=0.12.11,<0.13"]
 gemini = ["google-generativeai>=0.8.4,<0.9"]
